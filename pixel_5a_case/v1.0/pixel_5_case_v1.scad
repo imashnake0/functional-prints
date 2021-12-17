@@ -25,7 +25,7 @@ module return(){
             rotate([0, 0, 0]) {
                 scale([0.55, 0.55, 1]) {
                     linear_extrude(height=10, center=true, convexity=10, twist=0) {
-                        text("649 Albert St.,", font = "Product Sans");
+                        text("", font = "Product Sans");
                     }
                 }
             }
@@ -35,7 +35,7 @@ module return(){
             rotate([0, 0, 0]) {
                 scale([0.55, 0.55, 1]) {
                     linear_extrude(height=10, center=true, convexity=10, twist=0) {
-                        text("Waterloo, ON", font = "Product Sans");
+                        text("", font = "Product Sans");
                     }
                 }
             }
@@ -45,7 +45,7 @@ module return(){
             rotate([0, 0, 90]) {
                 scale([0.3, 0.3, 1]) {
                     linear_extrude(height=10, center=true, convexity=10, twist=0) {
-                        text("kamaleshpaluru07@gmail.com", font = "Product Sans");
+                        text("", font = "Product Sans");
                     }
                 }
             }
